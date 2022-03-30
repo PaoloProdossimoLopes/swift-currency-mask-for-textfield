@@ -10,7 +10,7 @@
  -->
 
 <!-- PROJECT NAME -->
-#  REPOSITORY TEMPLATE
+#  SIMPLE MASK FOR UITEXTFIELDS
 
 <!-- DESCRIPTION -->
 This project are created for using as template for others repository.
